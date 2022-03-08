@@ -8,4 +8,5 @@
 ![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-i-k-e-s&show_icons=true&theme=radical)
 
 ## Badges
-![alt text](https://github.com/m-i-k-e-s/m-i-k-e-s/blob/main/aws-certified-cloud-practitioner%20(1).png?raw=true)
+[![AWS BADGE](https://github.com/m-i-k-e-s/m-i-k-e-s/blob/main/aws-certified-cloud-practitioner%20(1).png?raw=true)](https://www.credly.com/badges/213f352c-1731-4ae9-906e-1590b9942b69/public_url)
+
