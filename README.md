@@ -7,3 +7,4 @@
 
 ![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-i-k-e-s&show_icons=true&theme=radical)
 
+![alt text](https://github.com/m-i-k-e-s/m-i-k-e-s/blob/main/aws-certified-cloud-practitioner%20(1).png?raw=true)
